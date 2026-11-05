@@ -1,0 +1,12 @@
+Linux Commands
+
+1. ls - List files and directories
+2. pwd - Print working directory
+3. mkdir - Create directory
+4. touch - Create file
+5. chmod - Change file permissions
+6. chown - Change file ownership
+7. df -h - Check disk space
+8. free -m - Check memory usage
+9. ps - Check running processes
+10. systemctl - Manage services
